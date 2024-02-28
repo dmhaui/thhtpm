@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "2ZL272PGP14gVE1D0l/Hsiu/Uw/xLXqd/Ir0tjm46b0g+Yz0vHi1Kj2IO7eo0WUWFCAc5/cPgSaNlyKKUCAElg==",
+  "success": true,
+  "projectFilePath": "E:\\Visual Studio 2022\\source\\repos\\QLSV\\TestAPI\\TestAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Minh Minh\\.nuget\\packages\\microsoft.aspnet.webapi\\5.3.0\\microsoft.aspnet.webapi.5.3.0.nupkg.sha512",
+    "C:\\Users\\Minh Minh\\.nuget\\packages\\microsoft.aspnet.webapi.client\\6.0.0\\microsoft.aspnet.webapi.client.6.0.0.nupkg.sha512",
+    "C:\\Users\\Minh Minh\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.3.0\\microsoft.aspnet.webapi.core.5.3.0.nupkg.sha512",
+    "C:\\Users\\Minh Minh\\.nuget\\packages\\microsoft.aspnet.webapi.webhost\\5.3.0\\microsoft.aspnet.webapi.webhost.5.3.0.nupkg.sha512",
+    "C:\\Users\\Minh Minh\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Minh Minh\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\Minh Minh\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Minh Minh\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Minh Minh\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Minh Minh\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\Minh Minh\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

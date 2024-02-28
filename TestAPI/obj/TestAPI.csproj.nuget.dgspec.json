@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Visual Studio 2022\\source\\repos\\QLSV\\TestAPI\\TestAPI.csproj": {}
+  },
+  "projects": {
+    "E:\\Visual Studio 2022\\source\\repos\\QLSV\\TestAPI\\TestAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Visual Studio 2022\\source\\repos\\QLSV\\TestAPI\\TestAPI.csproj",
+        "projectName": "TestAPI",
+        "projectPath": "E:\\Visual Studio 2022\\source\\repos\\QLSV\\TestAPI\\TestAPI.csproj",
+        "packagesPath": "C:\\Users\\Minh Minh\\.nuget\\packages\\",
+        "outputPath": "E:\\Visual Studio 2022\\source\\repos\\QLSV\\TestAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Minh Minh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\savepakage": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Microsoft.AspNet.WebApi": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
